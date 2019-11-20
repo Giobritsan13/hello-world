@@ -1,2 +1,3 @@
 # hello-world
 estudio de manejo de git
+Aca estoy, haciendo lo que  me gusta, estudiando creciendo, es un reto y una meta para mi, aprender a trabajar con diferentes plataformas, para seguir avanzando en este mundo del codigo, aun a pesar de que no soy un profesional en ningun area, pero me gusta aprender investigar, valoro el conocimiento, por eso dedico tiempo y recursos en aprender. aspiro llegar a dominar diferentes codigos, es mi meta, tener el poder de crear algo, es un don y pienso que hay que nutrirlo...
